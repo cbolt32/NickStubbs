@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00ce6b18-9583-4971-93d6-bd37312b0060" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/js/myScript.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_/js/mystyles.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_/Components/js/_mystyles.js" afterPath="$PROJECT_DIR$/_/Components/js/_myScript.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact.php" afterPath="$PROJECT_DIR$/Contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CourseEnquiry.php" afterPath="$PROJECT_DIR$/CourseEnquiry.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CredentialsAndAffiliations.php" afterPath="$PROJECT_DIR$/CredentialsAndAffiliations.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TrainingCourseDirectory.php" afterPath="$PROJECT_DIR$/TrainingCourseDirectory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/Components/js/_bootstrap.js" afterPath="$PROJECT_DIR$/_/Components/js/_bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/js/bootstrap.js" afterPath="$PROJECT_DIR$/_/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/Components/PHP/header.php" afterPath="$PROJECT_DIR$/_/Components/PHP/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="00ce6b18-9583-4971-93d6-bd37312b0060" name="Default" comment="" />
     <ignored path="OTTN.Dev.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385301896375" ignored="false" />

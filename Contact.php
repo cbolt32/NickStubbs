@@ -19,11 +19,9 @@
     <section class="container">
         <div class="content row">
             <section class="main col col-lg-8">
-                <h2>Main Content</h2>
-
+                <?php include "_/components/php/header.php"; ?>
             </section><!--main content-->
             <section class="sidebar col col-lg-4">
-                <h2>Sidebar</h2>
 
             </section><!--sidebar-->
         </div><!--content-->
@@ -32,6 +30,6 @@
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="_/js/bootstrap.js"></script>
-<script src="_/js/mysSyles.js"></script>
+<script src="_/js/myScript.js"></script>
 </body>
 </html>

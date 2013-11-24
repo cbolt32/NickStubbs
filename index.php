@@ -22,6 +22,7 @@
                 <?php include "_/components/php/header.php"; ?>
             </section><!--main content-->
             <section class="sidebar col col-lg-4">
+                <?php include "_/components/php/footer.php"; ?>
             </section><!--sidebar-->
         </div><!--content-->
     </section><!--container-->
@@ -29,6 +30,6 @@
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="_/js/bootstrap.js"></script>
-<script src="_/js/mysSyles.js"></script>
+<script src="_/js/myScript.js"></script>
 </body>
 </html>

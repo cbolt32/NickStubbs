@@ -19,6 +19,7 @@
     <section class="container">
         <div class="content row">
             <?php include "_/components/php/header.php"; ?>
+            <?php include "_/components/php/snipet-carousel.php"; ?>
             <section class="main col col-lg-8">
             </section><!--main content-->
             <section class="sidebar col col-lg-4">

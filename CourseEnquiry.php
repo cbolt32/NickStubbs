@@ -18,18 +18,19 @@
 <body id="CourseEnquiry">
     <section class="container">
         <div class="content row">
+            <?php include "_/components/php/header.php"; ?>
             <section class="main col col-lg-8">
-                <?php include "_/components/php/header.php"; ?>
             </section><!--main content-->
             <section class="sidebar col col-lg-4">
 
             </section><!--sidebar-->
         </div><!--content-->
+            <?php include "_/components/php/footer.php"; ?>
     </section><!--container-->
 
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="_/js/bootstrap.js"></script>
-<script src="_/js/myScript.js"></script>
+<script src="_v/js/myScript.js"></script>
 </body>
 </html>

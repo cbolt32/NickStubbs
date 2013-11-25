@@ -6,7 +6,7 @@
     <!-- Bootstrap -->
     <link href='http://fonts.googleapis.com/css?family=Fenix|Roboto+Condensed:300italic,400italic,700italic,400,700,300' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">
-    <link rel="stylesheet" href="_/css/myStyles.css">
+    <link href="_/css/myStyles.css" rel="stylesheet" >
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -18,13 +18,15 @@
 <body id="Home">
     <section class="container">
         <div class="content row">
+            <?php include "_/components/php/header.php"; ?>
             <section class="main col col-lg-8">
-                <?php include "_/components/php/header.php"; ?>
+
             </section><!--main content-->
             <section class="sidebar col col-lg-4">
-                <?php include "_/components/php/footer.php"; ?>
+
             </section><!--sidebar-->
         </div><!--content-->
+            <?php include "_/components/php/footer.php"; ?>
     </section><!--container-->
 
 

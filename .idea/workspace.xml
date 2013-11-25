@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00ce6b18-9583-4971-93d6-bd37312b0060" name="Default" comment="" />
+    <list default="true" id="00ce6b18-9583-4971-93d6-bd37312b0060" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Contact.php" afterPath="$PROJECT_DIR$/Contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CourseEnquiry.php" afterPath="$PROJECT_DIR$/CourseEnquiry.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CredentialsAndAffiliations.php" afterPath="$PROJECT_DIR$/CredentialsAndAffiliations.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TrainingCourseDirectory.php" afterPath="$PROJECT_DIR$/TrainingCourseDirectory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/Components/PHP/footer.php" afterPath="$PROJECT_DIR$/_/Components/PHP/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/Components/PHP/header.php" afterPath="$PROJECT_DIR$/_/Components/PHP/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <ignored path="OTTN.Dev.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385301896375" ignored="false" />
-    <file path="/index.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385327515410" ignored="false" />
+    <file path="/index.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385408096827" ignored="false" />
     <file path="/_myStyles.less" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385207592176" ignored="false" />
     <file path="/dummy.xml" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385328422722" ignored="false" />
     <file path="/about.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385327215157" ignored="false" />
     <file path="/Contact.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385239576672" ignored="false" />
-    <file path="/CourseEnquiry.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385326864546" ignored="false" />
+    <file path="/CourseEnquiry.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385411965212" ignored="false" />
     <file path="/CredentialsAndAffiliations.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385326874247" ignored="false" />
     <file path="/TrainingCourseDirectory.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385327078775" ignored="false" />
-    <file path="/header.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385326387323" ignored="false" />
+    <file path="/header.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385411288720" ignored="false" />
     <file path="/bootstrap.less" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385317616497" ignored="false" />
     <file path="/_myscript.js" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385326023245" ignored="false" />
-    <file path="/a.dummy" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385327087635" ignored="false" />
+    <file path="/a.dummy" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385399646863" ignored="false" />
     <file path="/footer.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385328967311" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,97 +45,80 @@
     <favorites_list name="OTTN.Dev" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="_myScript.js" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/_/Components/js/_myScript.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="18" column="3" selection-start="896" selection-end="896" vertical-scroll-proportion="0.8452915">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="about.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/about.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="32" column="15" selection-start="1357" selection-end="1357" vertical-scroll-proportion="-8.538462">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Contact.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Contact.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="32" column="14" selection-start="1366" selection-end="1366" vertical-scroll-proportion="-0.23376623">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CourseEnquiry.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CourseEnquiry.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="32" column="14" selection-start="1376" selection-end="1376" vertical-scroll-proportion="0.025974026">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="CredentialsAndAffiliations.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CredentialsAndAffiliations.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="32" column="14" selection-start="1385" selection-end="1385" vertical-scroll-proportion="-1.8846154">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="TrainingCourseDirectory.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/TrainingCourseDirectory.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="32" column="14" selection-start="1380" selection-end="1380" vertical-scroll-proportion="-1.8846154">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="24" column="54" selection-start="1168" selection-end="1168" vertical-scroll-proportion="-3.1538463">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/_/Components/PHP/footer.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="22" selection-start="467" selection-end="467" vertical-scroll-proportion="0.49773756">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/_/Components/PHP/header.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="22" column="91" selection-start="1651" selection-end="1677" vertical-scroll-proportion="-16.923077">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="about.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="30" selection-start="1268" selection-end="1268" vertical-scroll-proportion="0.4893617">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="59" selection-start="979" selection-end="979" vertical-scroll-proportion="-2.6923077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseEnquiry.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CourseEnquiry.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="59" selection-start="989" selection-end="989" vertical-scroll-proportion="-0.5194805">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CredentialsAndAffiliations.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CredentialsAndAffiliations.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="59" selection-start="998" selection-end="998" vertical-scroll-proportion="-2.6923077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrainingCourseDirectory.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TrainingCourseDirectory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="0" selection-start="1295" selection-end="1295" vertical-scroll-proportion="-11.153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="1179" selection-end="1238" vertical-scroll-proportion="-15.384615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/Components/PHP/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="28" selection-start="469" selection-end="469" vertical-scroll-proportion="-7.6923075">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_/Components/PHP/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="33" selection-start="390" selection-end="390" vertical-scroll-proportion="-6.1538463">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -147,24 +139,23 @@
         <option value="$PROJECT_DIR$/_/Components/js/_mystyles.js" />
         <option value="$PROJECT_DIR$/_/Components/less/_myStyles.less" />
         <option value="$PROJECT_DIR$/_/Components/js/_bootstrap.js" />
-        <option value="$PROJECT_DIR$/_/Components/PHP/header.php" />
         <option value="$PROJECT_DIR$/_/Components/js/_myscript.js" />
-        <option value="$PROJECT_DIR$/about.php" />
-        <option value="$PROJECT_DIR$/Contact.php" />
-        <option value="$PROJECT_DIR$/CourseEnquiry.php" />
-        <option value="$PROJECT_DIR$/CredentialsAndAffiliations.php" />
-        <option value="$PROJECT_DIR$/TrainingCourseDirectory.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/_/Components/PHP/footer.php" />
+        <option value="$PROJECT_DIR$/_/Components/PHP/header.php" />
+        <option value="$PROJECT_DIR$/TrainingCourseDirectory.php" />
+        <option value="$PROJECT_DIR$/CredentialsAndAffiliations.php" />
+        <option value="$PROJECT_DIR$/CourseEnquiry.php" />
+        <option value="$PROJECT_DIR$/Contact.php" />
+        <option value="$PROJECT_DIR$/about.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="837" />
-    <option name="y" value="24" />
-    <option name="width" value="1083" />
-    <option name="height" value="1172" />
+    <option name="y" value="552" />
+    <option name="width" value="1920" />
+    <option name="height" value="644" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -397,21 +388,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="67" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="147" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="59" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="128" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="67" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="75" />
     <property name="options.lastSelected" value="preferences.toDoOptions" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="72" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="688" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="766" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="72" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="69" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="71" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="749" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="774" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="81" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="77" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
@@ -432,6 +423,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_/Components/PHP" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -509,7 +501,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="837" y="24" width="1083" height="1172" extended-state="0" />
+    <frame x="0" y="552" width="1920" height="644" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -517,12 +509,12 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298479" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18418515" sideWeight="0.67015207" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09551761" sideWeight="0.67015207" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -586,7 +578,7 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6459627" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -602,13 +594,6 @@
     <entry file="file://$PROJECT_DIR$/Planning/Nick Stubbs Training.mindnode/QuickLook/Preview.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/Components/less/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/Components/js/_bootstrap.js">
@@ -632,72 +617,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/Components/js/_myScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="3" selection-start="896" selection-end="896" vertical-scroll-proportion="0.8452915">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-10.508474">
+        <state line="0" column="100173" selection-start="100173" selection-end="100173" vertical-scroll-proportion="0.083591335">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.php">
+    <entry file="file://$PROJECT_DIR$/_/Components/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="15" selection-start="1357" selection-end="1357" vertical-scroll-proportion="-8.538462">
+        <state line="231" column="29" selection-start="7104" selection-end="7104" vertical-scroll-proportion="0.33126935">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TrainingCourseDirectory.php">
+    <entry file="file://$PROJECT_DIR$/_/Components/js/_myScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="14" selection-start="1380" selection-end="1380" vertical-scroll-proportion="-1.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CredentialsAndAffiliations.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="14" selection-start="1385" selection-end="1385" vertical-scroll-proportion="-1.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CourseEnquiry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="14" selection-start="1376" selection-end="1376" vertical-scroll-proportion="0.025974026">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="14" selection-start="1366" selection-end="1366" vertical-scroll-proportion="-0.23376623">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="54" selection-start="1168" selection-end="1168" vertical-scroll-proportion="-3.1538463">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/Components/PHP/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="91" selection-start="1651" selection-end="1677" vertical-scroll-proportion="-16.923077">
+        <state line="13" column="18" selection-start="833" selection-end="833" vertical-scroll-proportion="0.6721311">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_/Components/PHP/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="467" selection-end="467" vertical-scroll-proportion="0.49773756">
+        <state line="10" column="28" selection-start="469" selection-end="469" vertical-scroll-proportion="-7.6923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/Components/PHP/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="33" selection-start="390" selection-end="390" vertical-scroll-proportion="-6.1538463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1179" selection-end="1238" vertical-scroll-proportion="-15.384615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrainingCourseDirectory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1295" selection-end="1295" vertical-scroll-proportion="-11.153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CredentialsAndAffiliations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="59" selection-start="998" selection-end="998" vertical-scroll-proportion="-2.6923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseEnquiry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="59" selection-start="989" selection-end="989" vertical-scroll-proportion="-0.5194805">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="59" selection-start="979" selection-end="979" vertical-scroll-proportion="-2.6923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="30" selection-start="1268" selection-end="1268" vertical-scroll-proportion="0.4893617">
           <folding />
         </state>
       </provider>

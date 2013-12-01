@@ -1,6 +1,6 @@
 <div id ="mainCarousel">
     <section class="carousel-inner">
-        <div class="active item"><img src="_/img/carousel/office.jpeg" alt="First Aid"/>
+        <div class="active item"><img src="http://placehold.it/1500x600 alt="First Aid"/>
         </div>
     </section>
 </div>

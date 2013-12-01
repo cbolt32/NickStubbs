@@ -4,7 +4,7 @@
             <ul class="breadcrumb">
                 <li><a href="about.php">About the Roux Academy</a></li>
                 <li><a href="privacypolicy.php">Privacy Policy</a></li>
-                <li><a href="http://rouxacademy.com">Roux Academy Website</a></li>
+                <li><a href="http://www.ottn.co.uk">On Target Training Network</a></li>
             </ul><!-- breadcrumb -->
         </nav><!-- nav -->
     </footer><!-- footer -->

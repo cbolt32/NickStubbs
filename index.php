@@ -14,17 +14,20 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
+
 </head>
 <body id="Home">
     <section class="container">
         <div class="content row">
             <?php include "_/components/php/header.php"; ?>
-            <?php include "_/components/php/snippet-carousel.php"; ?>
+            <?php /*include "_/components/php/snippet-carousel.php"; */?>
             <section class="main col col-lg-8">
-
+                <?php include "_/components/php/article-intro.php"; ?>
+                <?php include "_/components/php/article-background.php"; ?>
             </section><!--main content-->
             <section class="sidebar col col-lg-4">
-
+                <?php include "_/components/php/aside-upcomingCourses.php"; ?>
+                <?php include "_/components/php/aside-courseEnquiries.php"; ?>
             </section><!--sidebar-->
         </div><!--content-->
             <?php include "_/components/php/footer.php"; ?>

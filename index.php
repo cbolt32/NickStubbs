@@ -7,7 +7,9 @@
     <link href='http://fonts.googleapis.com/css?family=Fenix|Roboto+Condensed:300italic,400italic,700italic,400,700,300' rel='stylesheet' type='text/css'>
     <link href="_/css/bootstrap.css" rel="stylesheet">
     <link href="_/css/myStyles.css" rel="stylesheet" >
-
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="_/js/bootstrap.js"></script>
+    <script src="_/js/myScript.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -28,14 +30,13 @@
             <section class="sidebar col col-lg-4">
                 <?php include "_/components/php/aside-upcomingCourses.php"; ?>
                 <?php include "_/components/php/aside-courseEnquiries.php"; ?>
+                <?php include "_/components/php/aside-courseAccordion.php"; ?>
             </section><!--sidebar-->
         </div><!--content-->
             <?php include "_/components/php/footer.php"; ?>
     </section><!--container-->
 
 
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="_/js/bootstrap.js"></script>
-<script src="_/js/myScript.js"></script>
+
 </body>
 </html>

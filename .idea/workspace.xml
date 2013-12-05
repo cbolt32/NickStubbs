@@ -2,28 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ce6b18-9583-4971-93d6-bd37312b0060" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/article-background.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/article-intro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/aside-courseEnquiries.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/aside-upcomingCourses.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CredentialsAndAffiliations.php" afterPath="$PROJECT_DIR$/CredentialsAndAffiliations.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/Components/PHP/footer.php" afterPath="$PROJECT_DIR$/_/Components/PHP/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/article-courseOverviewTabs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/aside-courseAccordion.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/snippet-OtherTrainingCourseData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/snippet-careTrainingCourseData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/snippet-firstAidCourseData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/snippet-foodHygeineCourseData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_/Components/PHP/snippet-healthandSafetyCourseData.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_/img/carousel/office.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_/img/carousel/safety.jpeg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TrainingCourseDirectory.php" afterPath="$PROJECT_DIR$/TrainingCourseDirectory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/Components/less/_myStyles.less" afterPath="$PROJECT_DIR$/_/Components/less/_myStyles.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/Components/PHP/header.php" afterPath="$PROJECT_DIR$/_/Components/PHP/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/Components/PHP/snippet-carousel.php" afterPath="$PROJECT_DIR$/_/Components/PHP/snippet-carousel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/js/myScript.js" afterPath="$PROJECT_DIR$/_/js/myScript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_/css/myStyles.css" afterPath="$PROJECT_DIR$/_/css/myStyles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OTTN.Dev.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385487007021" ignored="false" />
-    <file path="/index.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385840836159" ignored="false" />
+    <file path="/Dummy.txt" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386275069635" ignored="false" />
+    <file path="/index.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386003430542" ignored="false" />
     <file path="/_myStyles.less" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385207592176" ignored="false" />
-    <file path="/dummy.xml" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385907974527" ignored="false" />
+    <file path="/dummy.xml" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386167372886" ignored="false" />
     <file path="/about.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385327215157" ignored="false" />
     <file path="/Contact.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385239576672" ignored="false" />
     <file path="/CourseEnquiry.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385411965212" ignored="false" />
     <file path="/CredentialsAndAffiliations.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385840546471" ignored="false" />
-    <file path="/TrainingCourseDirectory.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385327078775" ignored="false" />
-    <file path="/header.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385487200719" ignored="false" />
+    <file path="/TrainingCourseDirectory.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386004948234" ignored="false" />
+    <file path="/header.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386272945263" ignored="false" />
     <file path="/bootstrap.less" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385317616497" ignored="false" />
     <file path="/_myscript.js" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385326023245" ignored="false" />
     <file path="/a.dummy" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385399646863" ignored="false" />
@@ -33,6 +41,16 @@
     <file path="/article-background.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385897256593" ignored="false" />
     <file path="/aside-upcomingCourses.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385907723994" ignored="false" />
     <file path="/aside-courseEnquiries.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1385908386646" ignored="false" />
+    <file path="/aside-courseAccordion.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386278959546" ignored="false" />
+    <file path="/courseOverviewTabs.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386020754734" ignored="false" />
+    <file path="/_myScript.js" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386276853607" ignored="false" />
+    <file path="/article-courseOverviewTabs.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386275642657" ignored="false" />
+    <file path="/snippet-healthandSafetyCourseData.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386274857758" ignored="false" />
+    <file path="/test.html" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386111492527" ignored="false" />
+    <file path="/snippet-firstAidCourseData.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386276705372" ignored="false" />
+    <file path="/snippet-careTrainingCourseData.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386196137952" ignored="false" />
+    <file path="/snippet-foodHygeineCourseData.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386196151144" ignored="false" />
+    <file path="/snippet-OtherTrainingCourseData.php" changelist="00ce6b18-9583-4971-93d6-bd37312b0060" time="1386274931953" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,62 +69,136 @@
     <favorites_list name="OTTN.Dev" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="article-background.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/Components/PHP/article-background.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="629" selection-end="629" vertical-scroll-proportion="-7.6923075">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="15" selection-start="190" selection-end="190" vertical-scroll-proportion="-4.6153846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aside-upcomingCourses.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/Components/PHP/aside-upcomingCourses.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aside-courseEnquiries.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_/Components/PHP/aside-courseEnquiries.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="8" selection-start="338" selection-end="338" vertical-scroll-proportion="0.18518518">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article-intro.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/Components/PHP/article-intro.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="0" selection-end="549" vertical-scroll-proportion="-6.923077">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_/Components/PHP/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="37" selection-start="91" selection-end="112" vertical-scroll-proportion="-1.5384616">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.50238323">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="article-courseOverviewTabs.php" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_/Components/PHP/article-courseOverviewTabs.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="4" selection-start="873" selection-end="873" vertical-scroll-proportion="0.76372313">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TrainingCourseDirectory.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/TrainingCourseDirectory.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="34" column="0" selection-start="1584" selection-end="1584" vertical-scroll-proportion="-12.653846">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="snippet-healthandSafetyCourseData.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-healthandSafetyCourseData.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="15" column="37" selection-start="945" selection-end="945" vertical-scroll-proportion="-5.0">
+                  <folding>
+                    <marker date="1386276734000" expanded="true" signature="0:2917" placeholder="..." />
+                    <marker date="1386276734000" expanded="true" signature="254:264" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_/Components/PHP/header.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="19" column="93" selection-start="1152" selection-end="1152" vertical-scroll-proportion="-10.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="snippet-healthandSafetyCourseData.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-healthandSafetyCourseData.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="0" selection-start="907" selection-end="907" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="snippet-firstAidCourseData.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-firstAidCourseData.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="3" column="37" selection-start="142" selection-end="142" vertical-scroll-proportion="-2.3076923">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="snippet-careTrainingCourseData.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-careTrainingCourseData.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="snippet-foodHygeineCourseData.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-foodHygeineCourseData.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="snippet-OtherTrainingCourseData.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-OtherTrainingCourseData.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="aside-courseAccordion.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_/Components/PHP/aside-courseAccordion.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="136" selection-start="689" selection-end="689" vertical-scroll-proportion="-2.3076923">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="44" selection-start="619" selection-end="619" vertical-scroll-proportion="-8.461538">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_myScript.js" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_/Components/js/_myScript.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="5" column="62" selection-start="197" selection-end="197" vertical-scroll-proportion="0.22727273">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="myScript.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_/js/myScript.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="609" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -124,29 +216,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_/Components/less/_myStyles.less" />
-        <option value="$PROJECT_DIR$/_/Components/js/_bootstrap.js" />
-        <option value="$PROJECT_DIR$/_/Components/js/_myscript.js" />
-        <option value="$PROJECT_DIR$/TrainingCourseDirectory.php" />
-        <option value="$PROJECT_DIR$/CourseEnquiry.php" />
-        <option value="$PROJECT_DIR$/about.php" />
-        <option value="$PROJECT_DIR$/Contact.php" />
-        <option value="$PROJECT_DIR$/_/Components/PHP/header.php" />
-        <option value="$PROJECT_DIR$/_/Components/PHP/snippet-carousel.php" />
-        <option value="$PROJECT_DIR$/CredentialsAndAffiliations.php" />
-        <option value="$PROJECT_DIR$/_/Components/PHP/footer.php" />
-        <option value="$PROJECT_DIR$/_/Components/PHP/article-intro.php" />
-        <option value="$PROJECT_DIR$/_/Components/PHP/article-background.php" />
+        <option value="$PROJECT_DIR$/_/Components/js/careTrainingCourseData.php" />
+        <option value="$PROJECT_DIR$/_/Components/js/test.html" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/_/Components/js/snippet-healthandSafetyCourseData.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/_/Components/PHP/aside-upcomingCourses.php" />
-        <option value="$PROJECT_DIR$/_/Components/PHP/aside-courseEnquiries.php" />
+        <option value="$PROJECT_DIR$/TrainingCourseDirectory.php" />
+        <option value="$PROJECT_DIR$/_/Components/PHP/header.php" />
+        <option value="$PROJECT_DIR$/_/Components/PHP/snippet-firstAidCourseData.php" />
+        <option value="$PROJECT_DIR$/_/Components/PHP/snippet-careTrainingCourseData.php" />
+        <option value="$PROJECT_DIR$/_/Components/PHP/snippet-OtherTrainingCourseData.php" />
+        <option value="$PROJECT_DIR$/_/Components/PHP/snippet-foodHygeineCourseData.php" />
+        <option value="$PROJECT_DIR$/_/Components/PHP/snippet-healthandSafetyCourseData.php" />
+        <option value="$PROJECT_DIR$/_/js/myScript.js" />
+        <option value="$PROJECT_DIR$/_/Components/PHP/aside-courseAccordion.php" />
+        <option value="$PROJECT_DIR$/_/Components/js/_myScript.js" />
+        <option value="$PROJECT_DIR$/_/Components/PHP/article-courseOverviewTabs.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="985" />
+    <option name="x" value="-4" />
+    <option name="y" value="22" />
+    <option name="width" value="1206" />
     <option name="height" value="1167" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -201,6 +294,42 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="OTTN.Dev">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="_">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="img">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="OTTN.Dev">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="_">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
@@ -219,10 +348,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="PHP">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
@@ -238,6 +363,10 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="Components">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -329,20 +458,22 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="75" />
-    <property name="options.lastSelected" value="preferences.toDoOptions" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lynda.com/Bootstrap_AdvWebDev/01_03/chap0103" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="71" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="749" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="774" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="749" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="81" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="77" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -361,11 +492,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_/img/carousel" />
-      <recent name="$PROJECT_DIR$/Images/carousel/carousel" />
-      <recent name="$PROJECT_DIR$/Images/carousel" />
-      <recent name="$PROJECT_DIR$/Images" />
+      <recent name="$PROJECT_DIR$/_/img" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_" />
+      <recent name="$PROJECT_DIR$/_/Components/php" />
+      <recent name="$PROJECT_DIR$/_/img/carousel" />
     </key>
   </component>
   <component name="RunManager">
@@ -376,14 +507,14 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -414,7 +545,7 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView" selected-index="1">
+  <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
       <are-packages-shown value="false" />
       <are-modules-shown value="false" />
@@ -435,14 +566,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="985" height="1167" extended-state="0" />
+    <frame x="-4" y="22" width="1206" height="1167" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1606464" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16015252" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27263045" sideWeight="0.67015207" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18189655" sideWeight="0.6701621" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -451,7 +582,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298479" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32983795" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -518,108 +649,108 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BS Orignal/css.html">
+    <entry file="file://$PROJECT_DIR$/_/Components/PHP/aside-upcomingCourses.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BS Orignal/Gruntfile.js">
+    <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BS Orignal/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="27" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="980" selection-end="1048" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CourseEnquiry.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="59" selection-start="989" selection-end="989" vertical-scroll-proportion="-15.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="7" selection-start="825" selection-end="825" vertical-scroll-proportion="-12.307693">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TrainingCourseDirectory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="1295" selection-end="1295" vertical-scroll-proportion="-23.846153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/Components/PHP/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="37" selection-start="91" selection-end="112" vertical-scroll-proportion="-1.5384616">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/Components/PHP/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="28" selection-start="474" selection-end="474" vertical-scroll-proportion="-7.6923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-carousel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CredentialsAndAffiliations.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="16" selection-start="839" selection-end="839" vertical-scroll-proportion="-11.538462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_/Components/PHP/article-intro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="0" selection-end="549" vertical-scroll-proportion="-6.923077">
+        <state line="53" column="6" selection-start="3931" selection-end="3931" vertical-scroll-proportion="1.3846154">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="15" selection-start="190" selection-end="190" vertical-scroll-proportion="-4.6153846">
+        <state line="11" column="44" selection-start="619" selection-end="619" vertical-scroll-proportion="-8.461538">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/Components/PHP/aside-upcomingCourses.php">
+    <entry file="file://$PROJECT_DIR$/_/Components/js/tab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="44" column="6" selection-start="1544" selection-end="1544" vertical-scroll-proportion="0.30237582">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/Components/PHP/article-background.php">
+    <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-firstAidCourseData.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="629" selection-end="629" vertical-scroll-proportion="-7.6923075">
+        <state line="3" column="37" selection-start="142" selection-end="142" vertical-scroll-proportion="-2.3076923">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_/Components/PHP/aside-courseEnquiries.php">
+    <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-careTrainingCourseData.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="8" selection-start="338" selection-end="338" vertical-scroll-proportion="0.18518518">
+        <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-foodHygeineCourseData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-OtherTrainingCourseData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="29" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/Components/PHP/snippet-healthandSafetyCourseData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="945" selection-end="945" vertical-scroll-proportion="-5.0">
+          <folding>
+            <marker date="1386276734000" expanded="true" signature="0:2917" placeholder="..." />
+            <marker date="1386276734000" expanded="true" signature="254:264" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="609" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/Components/PHP/aside-courseAccordion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="136" selection-start="689" selection-end="689" vertical-scroll-proportion="-2.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/Components/js/_myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="62" selection-start="197" selection-end="197" vertical-scroll-proportion="0.22727273">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/Components/PHP/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="93" selection-start="1152" selection-end="1152" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrainingCourseDirectory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="1584" selection-end="1584" vertical-scroll-proportion="-12.653846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_/Components/PHP/article-courseOverviewTabs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="4" selection-start="873" selection-end="873" vertical-scroll-proportion="0.76372313">
           <folding />
         </state>
       </provider>

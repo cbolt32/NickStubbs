@@ -14,23 +14,26 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
+
 </head>
 <body id="ContactUs">
-    <section class="container">
-        <div class="content row">
-            <?php include "_/components/php/header.php"; ?>
-            <?php include "_/components/php/snipet-carousel.php"; ?>
-            <section class="main col col-lg-8">
-            </section><!--main content-->
-            <section class="sidebar col col-lg-4">
+<section class="container">
+    <div class="content row">
+        <?php include "_/components/php/header.php"; ?>
+        <?php include "_/components/php/snipet-carousel.php"; ?>
+        <section class="main col col-lg-8">
+            <?php include "_/components/php/article-contactForm.php"; ?>
+        </section><!--main content-->
+        <section class="sidebar col col-lg-4">
+            <?php include "_/components/php/aside-feedback.php"; ?>
+            <?php include "_/components/php/aside-courseAccordion.php"; ?>
+        </section><!--sidebar-->
+    </div><!--content-->
+    <?php include "_/components/php/footer.php"; ?>
+</section><!--container-->
 
-            </section><!--sidebar-->
-        </div><!--content-->
-            <?php include "_/components/php/footer.php"; ?>
-    </section><!--container-->
 
-
-<!-- Include all compiled plugins (below), or include individual files as needed -->
+          <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="_/js/bootstrap.js"></script>
 <script src="_/js/myScript.js"></script>
 </body>

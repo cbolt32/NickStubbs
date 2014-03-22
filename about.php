@@ -20,8 +20,11 @@
         <div class="content row">
             <?php include "_/components/php/header.php"; ?>
             <section class="main col col-lg-8">
+
             </section><!--main content-->
             <section class="sidebar col col-lg-4">
+                <?php include "_/components/php/aside-courseEnquiries.php"; ?>
+                <?php include "_/components/php/aside-feedback.php"; ?>
 
             </section><!--sidebar-->
         </div><!--content-->

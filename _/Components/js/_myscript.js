@@ -5,6 +5,13 @@ $(function() {
     var hash = window.location.hash;
     hash && $('ul.nav li a[href="' + hash + '"]').tab('show');
 
+    //controlling opening of accorion
+    $('#healthandSafety.accordion-body').addClass('in')
+
+    $(' #foodHygeine.accordion-body').addClass('in');
+    $(' #firstAid.accordion-body').addClass('in');
+    $(' #careTraining.accordion-body').addClass('in');
+    $(' #otherTraining.accordion-body').addClass('in');
 
     //Highlight current nav, prevents error as header.php utilised as php include in each page
     $("#Home a:contains('Home')").parent().addClass('active'); //if page # is home, and an a tag contains "Home" add active class to parent (li) tag

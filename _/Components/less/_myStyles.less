@@ -1,7 +1,65 @@
+
+//my colors
+//colourlovers.com, pallete your happy now
+@white:                 #ffffff;
+@ds:                    #eaeaea;
+@gunpipe:               #5f5f5f;
+@intoTheLight:          #cddaec;
+@whereWillYouStay:      #c2d4ec;
+
+
+h1, h2, h3, h4, h5, h6, {
+  color: @gunpipe;
+}
+
+body {
+  background: @ds;
+  margin-top: 30px;
+}
+/*
+header {
+  background: @ds;
+}*/
+
 .feedback {
   max-height: 300px;
   overflow: scroll;
 }
 .feedbackAside h4 {
   padding-left: 0px
+}
+
+aside>p>a {
+  padding-bottom: 00;
+}
+
+
+/*------Contact Us Form Styling---------------*/
+
+#personalInfo {
+  @media(max-width: 720px) {
+    padding-left: 30px;
+  }
+}
+
+#enquiry {
+  @media(max-width: 720px) {
+    padding-left: 30px;
+  }
+}
+
+div.contactDetails {
+  padding-top: 50px;
+}
+
+form.contactUs {
+  legend {
+    margin-left: -20px;
+    margin-top: 100px;
+
+  }
+}
+
+#submit {
+  margin-left: 120px;
 }
